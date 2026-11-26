@@ -1,3 +1,5 @@
 {
-  "version": "1.0"
+  "version": "1.0",
+  "filename": "esp8266_fota_main_app.ino.bin",
+  "md5": "PASTE_32_CHAR_MD5_HERE"
 }
